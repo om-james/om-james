@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working at @Onemedical
+- 🔭 I’m currently working at [onemedical](https://www.onemedical.com/careers/)
 
 
 - 🌱 I’m currently learning Health Informatics
